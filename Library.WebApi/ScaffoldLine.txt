@@ -1,0 +1,10 @@
+﻿Scaffold-DbContext 
+
+"Data Source=localhost;
+Initial Catalog=SchoolLibraryDB;
+Integrated Security=True; 
+TrustServerCertificate=True" 
+
+Microsoft.EntityFrameworkCore.SqlServer 
+
+-OutputDir Models
